@@ -1,9 +1,3 @@
-# Weather-Data-Analysis
-
-##DO IT ON GOOGLE COLAB##
-
-In this project we have analysed & visualized the big data related to Telecom Industry, with Python programming language. 
-
-We used various functions from Pandas library for the analysis , and various functions/charts from Matplotlib library for the visualization.
-
-Various columns are analysed and then visualised to find out the reasons behind customer's churn.
+A groundbreaking project that uses machine learning as a catalyst to accelerate insights in meteorology, enhancing our understanding of
+climate patterns and improving the accuracy of weather forecasts, contributing to a deeper understanding of atmospheric conditions and
+fostering data-driven decision-making in the field of weather analysis
